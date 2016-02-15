@@ -11,6 +11,6 @@ namespace FastQueryStock.Views
     /// </summary>
     public interface IStockChartPanelView
     {
-        IStockValueChartControlView StockValueChartView { get; }
+        IStockValueChartControlView StockValueChartView { get; } 
     }
 }
